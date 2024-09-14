@@ -13,8 +13,8 @@ echo "Nice to meet you, $name!"
 
 # Perform a basic math operation
 echo "Now let's do some basic math."
-num1=10
-num2=5
+num1=100
+num2=50
 
 # Add, subtract, multiply, and divide
 sum=$((num1 + num2))
